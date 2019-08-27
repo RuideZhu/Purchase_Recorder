@@ -1,4 +1,4 @@
-This app is designed to record daily purchases.
+This program is designed to record daily purchases.
 
 docu.py is the main program and it is written in Python3
 
